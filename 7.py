@@ -4,7 +4,7 @@
 dist = 10
 day = 1
 sum_dist = 10
-n = int(input('Enter days quontity: '))
+n = int(input('Enter days quantity: '))
 check1 = check2 = check3 = check4 = True
 while check1 or check2 or check3 or check4:
     if day in range(2, 11):
